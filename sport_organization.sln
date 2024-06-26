@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sport_organization", "sport_organization\sport_organization.csproj", "{829AD059-EF18-44F3-A6EC-45CDC88236A8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{81FF8ECD-E2D7-4B51-86C8-EEEE045AC8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829AD059-EF18-44F3-A6EC-45CDC88236A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829AD059-EF18-44F3-A6EC-45CDC88236A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829AD059-EF18-44F3-A6EC-45CDC88236A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829AD059-EF18-44F3-A6EC-45CDC88236A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FF8ECD-E2D7-4B51-86C8-EEEE045AC8C8}.Debug|Any CPU.ActiveCfg = Debug
+		{81FF8ECD-E2D7-4B51-86C8-EEEE045AC8C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7491622-B98B-4393-91C2-3692F7F781FB}
+	EndGlobalSection
+EndGlobal
